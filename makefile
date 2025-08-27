@@ -5,8 +5,8 @@ install:
 format:
 	black *.py
 
-# lint:
-# 	flake8 --ignore=C,N hello.py
+lint:
+	flake8 --ignore=C,N hello.py
 
 test:
 	python -m pytest -vv --cov=hello test_hello.py
