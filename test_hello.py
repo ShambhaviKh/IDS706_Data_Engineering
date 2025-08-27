@@ -1,4 +1,4 @@
-from hello import say_hello, add
+from hello import say_hello, add, sub
 # import subprocess
 # import sys
 # import os
@@ -15,6 +15,11 @@ def test_say_hello():
     # Edge cases
     assert say_hello("") == "Hello, , welcome to Data Engineering Systems (IDS 706)!"
 
+def test_sub():
+    assert sub(10, 8) == 2
+    # Edge cases
+    assert sub(2_000_000, 1_000_000) == 1_000_000       
+    assert sub(100, 100) == 0
 
 def test_add():
     assert add(5, 5) == 10
