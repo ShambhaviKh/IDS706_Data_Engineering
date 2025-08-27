@@ -1,4 +1,6 @@
 # IDS706_Data_Engineering
+[![Python Template for IDS706](https://github.com/ShambhaviKh/IDS706_Data_Engineering/actions/workflows/main.yml/badge.svg)](https://github.com/ShambhaviKh/IDS706_Data_Engineering/actions/workflows/main.yml)
+
 Data Engineering (Fall'25)
 
 The project required basic understanding of how to create github repository, connect it with VScode, create various files and run it correctly. 
@@ -15,4 +17,4 @@ Run Makefile commands as needed: make install, make test, make format, make lint
 
 
 
-[![Python Template for IDS706](https://github.com/ShambhaviKh/IDS706_Data_Engineering/actions/workflows/main.yml/badge.svg)](https://github.com/ShambhaviKh/IDS706_Data_Engineering/actions/workflows/main.yml)
+
