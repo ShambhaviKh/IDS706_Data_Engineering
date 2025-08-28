@@ -141,14 +141,14 @@ View the Actions tab
 2. You should see the workflow running.
 3. Click on the latest workflow run to see the details.
 
-Congratulations!!
+##Congratulations!!
 You now have a working Python template for Data Engineering Systems with:
 -Automated testing
 -Linting and formatting
 -Continuous Integration via GitHub Actions
 
 
-Additional Resources 
+##Additional Resources 
 
 - [GitHub Documentation](https://docs.github.com/en)
 - [Python Virtual Environments](https://docs.python.org/3/tutorial/venv.html)
@@ -159,7 +159,7 @@ Additional Resources
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
 - [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
 
-This template provides a structured way to set up a Python project with essential tools for development, testing, and continuous integration. It includes:
+##This template provides a structured way to set up a Python project with essential tools for development, testing, and continuous integration. It includes:
 - A Makefile for easy command execution.
 - A virtual environment setup for dependency management.
 - A devcontainer configuration for GitHub Codespaces
